@@ -5,4 +5,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="bright">#9FFCFF</color>
     <color name="dark">#970C02</color>
+    <color name="targetHelp">#E8493D</color>
 </resources>
